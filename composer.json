@@ -34,7 +34,7 @@
         "zendframework/zendservice-apple-apns": "^1",
         "zendframework/zendservice-google-gcm": "^1",
         "laminas/laminas-validator": "^2",
-        "doctrine/inflector": "^1",
+        "doctrine/inflector": "^2",
         "symfony/filesystem": "^5",
         "symfony/error-handler": "^6"
     },
